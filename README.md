@@ -943,7 +943,7 @@ body {
 .article-meta .author,
 .article-meta .publish-date,
 .article-meta .read-time {
-    font-size: 12px;
+    font-size: 7px;
     color: rgba(255, 255, 255, 0.9);
     display: flex;
     align-items: center;
@@ -954,17 +954,17 @@ body {
 
 .article-meta .author::before {
     content: '👤';
-    margin-right: 5px;
+    margin-right: 4px;
 }
 
 .article-meta .publish-date::before {
     content: '📅';
-    margin-right: 5px;
+    margin-right: 4px;
 }
 
 .article-meta .read-time::before {
     content: '⏱️';
-    margin-right: 5px;
+    margin-right: 4px;
 }
 
 /* Article Content Styles */
