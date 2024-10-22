@@ -2677,19 +2677,19 @@ contract MyToken is ERC20 {
                     </p>
                     
                     <h2>The Current State of DeFi</h2>
-                    <img src="/api/placeholder/600/300" alt="DeFi Statistics" class="section-image">
+                    <img src="https://i.ibb.co/dkRj6z0/Whats-App-Image-2024-10-20-at-09-16-08-0798f91f.jpg" alt="DeFi Statistics" class="section-image">
                     <p>The DeFi ecosystem has grown exponentially, with total value locked (TVL) reaching new heights.
                        This section explores the current landscape and key metrics defining the space.</p>
                     
                     <h2>Emerging Trends</h2>
                     <div class="trend-grid">
                         <div class="trend-item">
-                            <img src="/api/placeholder/300/200" alt="Layer 2 Solutions">
+                            <img src="https://i.ibb.co/Pxp031L/Whats-App-Image-2024-10-20-at-09-16-07-510389dd.jpg" alt="Layer 2 Solutions">
                             <h3>Layer 2 Scaling</h3>
                             <p>Analysis of various Layer 2 solutions and their impact on DeFi scalability.</p>
                         </div>
                         <div class="trend-item">
-                            <img src="/api/placeholder/300/200" alt="Cross-chain DeFi">
+                            <img src="https://i.ibb.co/Pxp031L/Whats-App-Image-2024-10-20-at-09-16-07-510389dd.jpg" alt="Cross-chain DeFi">
                             <h3>Cross-chain Integration</h3>
                             <p>Exploration of cross-chain protocols and interoperability solutions.</p>
                         </div>
